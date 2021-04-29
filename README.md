@@ -1,13 +1,13 @@
 # YouTube-Speech-Crawler: Automatic Dataset Construction for Speech Recognition from YouTube Videos
 # 2019.06
-
+---
+## youtube-dl의 버전 변화로 인해 현재 동작하지 않습니다. (2021.04)
+---
 ## Installation
 ```
 git clone https://github.com/hatddum/Korean-Youtube-Crawler.git
 pip install -r requirements.txt
 ```
-
-### youtube-dl의 버전 변화로 인해 현재 동작하지 않습니다.
 
 ## Running crawler
 ```
